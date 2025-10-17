@@ -19,6 +19,7 @@ namespace GP_VirusLand_Kevin_GitHubRuinedMyJoke
         static int newY;
         static int virusTotal = 3;
         static Random rando = new Random();
+        //static char
         static void Main(string[] args)
         {
             virusLocations.Add(5);
@@ -27,13 +28,12 @@ namespace GP_VirusLand_Kevin_GitHubRuinedMyJoke
             virusLocations.Add(5);
             virusLocations.Add(10);
             virusLocations.Add(15);
-
+            
             Console.CursorVisible = false;
             while (true)
             {
-                int arrayX = -1;
-                int arrayY = -1;
 
+                
 
 
 
@@ -45,12 +45,13 @@ namespace GP_VirusLand_Kevin_GitHubRuinedMyJoke
                 Console.BackgroundColor = ConsoleColor.Black;
                 for (int x = 0; x > (virusTotal * 2); x += 2)
                 {
-                    arrayX++;
+                    
                     lastX = x;
                     for (int y = 1; y > (virusTotal * 2); y += 2)
                     {
+                        Console.SetCursorPosition(x,y)
+                        Console.Write("X");
                         
-                        arrayY++;
                         int move = rando.Next(1,4);
                         int doup = rando.Next(1, 10);
                         
