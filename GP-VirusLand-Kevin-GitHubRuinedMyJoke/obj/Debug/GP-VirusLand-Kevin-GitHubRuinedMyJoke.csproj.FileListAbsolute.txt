@@ -1,0 +1,7 @@
+C:\nscc_work\GP-VirusLand-Kevin-GitHubRuinedMyJoke\GP-VirusLand-Kevin-GitHubRuinedMyJoke\bin\Debug\GP-VirusLand-Kevin-GitHubRuinedMyJoke.exe.config
+C:\nscc_work\GP-VirusLand-Kevin-GitHubRuinedMyJoke\GP-VirusLand-Kevin-GitHubRuinedMyJoke\bin\Debug\GP-VirusLand-Kevin-GitHubRuinedMyJoke.exe
+C:\nscc_work\GP-VirusLand-Kevin-GitHubRuinedMyJoke\GP-VirusLand-Kevin-GitHubRuinedMyJoke\bin\Debug\GP-VirusLand-Kevin-GitHubRuinedMyJoke.pdb
+C:\nscc_work\GP-VirusLand-Kevin-GitHubRuinedMyJoke\GP-VirusLand-Kevin-GitHubRuinedMyJoke\obj\Debug\GP-VirusLand-Kevin-GitHubRuinedMyJoke.csproj.AssemblyReference.cache
+C:\nscc_work\GP-VirusLand-Kevin-GitHubRuinedMyJoke\GP-VirusLand-Kevin-GitHubRuinedMyJoke\obj\Debug\GP-VirusLand-Kevin-GitHubRuinedMyJoke.csproj.CoreCompileInputs.cache
+C:\nscc_work\GP-VirusLand-Kevin-GitHubRuinedMyJoke\GP-VirusLand-Kevin-GitHubRuinedMyJoke\obj\Debug\GP-VirusLand-Kevin-GitHubRuinedMyJoke.exe
+C:\nscc_work\GP-VirusLand-Kevin-GitHubRuinedMyJoke\GP-VirusLand-Kevin-GitHubRuinedMyJoke\obj\Debug\GP-VirusLand-Kevin-GitHubRuinedMyJoke.pdb
